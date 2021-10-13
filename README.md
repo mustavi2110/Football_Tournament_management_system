@@ -1,0 +1,2 @@
+# football_tournament_management
+Football Tournament Management System is a software program that allow users to access a tournament. Players will register as members of a squad. The project's goal is to keep records and conduct analyses based on the produced results. This device will save information about clubs, coaches, referees, venues, and results. This project is mostly database and Java-based.
